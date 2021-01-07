@@ -1,2 +1,2 @@
-# olá mundo
- meus projetos de git e github
+# olá, mundo!
+primeiro repositorio de git e github
